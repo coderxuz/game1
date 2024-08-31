@@ -1,0 +1,21 @@
+.human{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
+.fire{
+    width: 20px;
+    height: 20px;
+    background-color: brown;
+    position: absolute;
+    top: 115px;
+    left: 180px;
+}
+.enemy{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 20px;
+    left: 1000px;
+    background-color: black;
+}
